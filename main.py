@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, filte
 import io
 
 # Tokens
-TELEGRAM_BOT_TOKEN = '7601359137:AAHpt8cGT3a8AadYgKhJcFoh68_JkdKQU5M'
+TELEGRAM_BOT_TOKEN = '7601359137:AAGE4Z_QMbfl2FKB0Ccz8jjEEFpvKnjo3bQ'
 GEMINI_API_KEY = 'AIzaSyC4Tv4iWtjowsMgNRZ1b8sF-Yr_CzPj0rA'
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
 
